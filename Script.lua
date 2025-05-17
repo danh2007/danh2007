@@ -1,6 +1,6 @@
 -- DANH SÁCH KEY VÀ SỐ NGÀY
 local keyList = {
-    ["DANH_2007"] = 9999999999
+    ["DANH007"] = 9999999999
 }
 
 -- LẤY THỜI GIAN HIỆN TẠI + TÍNH HẠN KEY
